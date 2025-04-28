@@ -2,7 +2,6 @@
 
 🎓 **3rd-year Computer Science student** at ESI  
 💻 **Web Developer** | Passionate about backend & frontend development  
-🎮 **Game Developer** (Unity & C#)  
 🚀 Always eager to learn and explore new technologies  
 
 ---
