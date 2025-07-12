@@ -71,10 +71,10 @@
 
 ---
 
-<h2 align="center">🏆 Achievements</h2>
+<h2 align="center">🐍 Contribution Snake</h2>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SaraBarkat&theme=onestar&no-frame=true&column=3&row=2" width="60%" />
+  <img src="https://raw.githubusercontent.com/SaraBarkat/SaraBarkat/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
 
 ---
@@ -85,17 +85,6 @@
   <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/barkat-sara-1b45a0263/" title="LinkedIn">
     <img width="32px" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg" alt="LinkedIn" />
-  </a>
-  &#8287;&#8287;&#8287;
-
-  <!-- Discord (non cliquable) -->
-  <img width="32px" src="https://i.imgur.com/OViZO8J.png" alt="Discord" />
-  <span style="font-size: 16px; margin-left: 5px;">@sarabarkat</span>
-  &#8287;&#8287;&#8287;
-
-  <!-- Email -->
-  <a href="mailto:ms_barkat@esi.dz" title="Email">
-    <img width="32px" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Email" />
   </a>
   &#8287;&#8287;&#8287;
 
