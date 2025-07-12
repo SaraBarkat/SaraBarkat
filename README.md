@@ -49,11 +49,6 @@
     <td align="center" width="96"><img src="https://skillicons.dev/icons?i=wordpress" width="48" height="48"/><br>WordPress</td>
     <td align="center" width="96"><img src="https://skillicons.dev/icons?i=vue" width="48" height="48"/><br>Vue</td>
   </tr>
-  <tr>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=sass" width="48" height="48"/><br>Sass</td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=graphql" width="48" height="48"/><br>GraphQL</td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=postgres" width="48" height="48"/><br>PostgreSQL</td>
-  </tr>
 </table>
 </div>
 
@@ -76,10 +71,10 @@
 
 ---
 
-<h2 align="center">🐍 Contribution Snake</h2>
+<h2 align="center">🏆 Achievements</h2>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ashutosh00710/github-readme-activity-graph/master/htmllang/extra/github-contribution-grid-snake.svg" />
+  <img src="https://github-profile-trophy.vercel.app/?username=SaraBarkat&theme=onestar&no-frame=true&column=3&row=2" width="60%" />
 </p>
 
 ---
@@ -87,13 +82,27 @@
 <h2 align="center">🌐 Connect with Me</h2>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/barkat-sara-1b45a0263/"><img width="32px" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg" alt="LinkedIn" /></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://discord.com"><img width="32px" src="https://i.imgur.com/OViZO8J.png" alt="Discord" /></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://dev.to/barkat_sara_af78a1befad38"><img width="32px" src="https://i.imgur.com/mVm29vK.png" alt="Dev.to" /></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="mailto:ms_barkat@esi.dz"><img width="32px" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Email" /></a>
+  <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/barkat-sara-1b45a0263/" title="LinkedIn">
+    <img width="32px" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg" alt="LinkedIn" />
+  </a>
+  &#8287;&#8287;&#8287;
+
+  <!-- Discord (non cliquable) -->
+  <img width="32px" src="https://i.imgur.com/OViZO8J.png" alt="Discord" />
+  <span style="font-size: 16px; margin-left: 5px;">@sarabarkat</span>
+  &#8287;&#8287;&#8287;
+
+  <!-- Email -->
+  <a href="mailto:ms_barkat@esi.dz" title="Email">
+    <img width="32px" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Email" />
+  </a>
+  &#8287;&#8287;&#8287;
+
+  <!-- Dev.to -->
+  <a href="https://dev.to/barkat_sara_af78a1befad38" title="Dev.to">
+    <img width="32px" src="https://i.imgur.com/mVm29vK.png" alt="Dev.to" />
+  </a>
 </p>
 
 <br/>
