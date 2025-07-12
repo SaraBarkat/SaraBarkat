@@ -71,28 +71,7 @@
 
 ---
 
-<h2 align="center">🐍 Contribution Snake</h2>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/SaraBarkat/SaraBarkat/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</p>
-
----
-
-<h2 align="center">🌐 Connect with Me</h2>
-
-<p align="center">
-  <!-- LinkedIn -->
-  <a href="https://www.linkedin.com/in/barkat-sara-1b45a0263/" title="LinkedIn">
-    <img width="32px" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg" alt="LinkedIn" />
-  </a>
-  &#8287;&#8287;&#8287;
-
-  <!-- Dev.to -->
-  <a href="https://dev.to/barkat_sara_af78a1befad38" title="Dev.to">
-    <img width="32px" src="https://i.imgur.com/mVm29vK.png" alt="Dev.to" />
-  </a>
-</p>
 
 <br/>
 
