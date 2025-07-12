@@ -52,4 +52,51 @@
 
 <p align="center">
   <a href="https://github.com/SaraBarkat">
-    <img src="https://github-readme-stats-one-bice.vercel.app/api?username=SaraBarkat&theme=gotham&show_icons=true&count_private=true&hide_border=true&role=OWN_
+    <img src="https://github-readme-stats-one-bice.vercel.app/api?username=SaraBarkat&theme=gotham&show_icons=true&count_private=true&hide_border=true&role=OWNER,COLLABORATOR" width="48%" />
+  </a>
+  <a href="https://github.com/SaraBarkat">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=SaraBarkat&theme=gotham&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="48%" />
+  </a>
+</p>
+
+---
+
+## 🏆 Achievements & Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SaraBarkat&theme=react-dark&hide_border=true&area=true&custom_title=Contribution%20Graph" width="95%" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=SaraBarkat&theme=onestar&no-frame=true&column=3&row=2" width="60%" />
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ashutosh00710/github-readme-activity-graph/master/htmllang/extra/github-contribution-grid-snake.svg" alt="snake gif" />
+</p>
+
+---
+
+## 🌐 Let's Connect!
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/barkat-sara-1b45a0263/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:ms_barkat@esi.dz">
+    <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://dev.to/barkat_sara_af78a1befad38">
+    <img src="https://img.shields.io/badge/Dev.to-000000?style=for-the-badge&logo=devdotto&logoColor=white" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  ✨ <i>“Code is poetry. Let's build something amazing.”</i> ✨
+</p>
