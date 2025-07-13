@@ -77,6 +77,31 @@
 
 <br/>
 
+
+<h2 align="center">🌐 Connect with Me</h2>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/barkat-sara-1b45a0263/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  &#8287;&#8287;&#8287;
+  <a href="mailto:ms_barkat@esi.dz" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  &#8287;&#8287;&#8287;
+  <a href="https://discord.com/users/sarabarkat." target="_blank">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
+  </a>
+  &#8287;&#8287;&#8287;
+  <a href="https://dev.to/barkat_sara_af78a1befad38" target="_blank">
+    <img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" alt="Dev.to"/>
+  </a>
+</p>
+
+
+<br/>
+
+---
 <p align="center">
   ✨ <i>“Code is poetry. Let's build something amazing.”</i> ✨
 </p>
