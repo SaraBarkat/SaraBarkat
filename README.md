@@ -1,3 +1,6 @@
+![Profile views](https://komarev.com/ghpvc/?username=SaraBarkat&label=Profile%20Views&color=blue&style=flat)
+
+
 <h1 align="center">👋 Hey, I'm Sara Barkat!</h1>
 
 <p align="center">
