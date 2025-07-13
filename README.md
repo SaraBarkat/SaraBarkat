@@ -88,14 +88,7 @@
   <a href="mailto:ms_barkat@esi.dz" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  &#8287;&#8287;&#8287;
-  <a href="https://discord.com/users/sarabarkat." target="_blank">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
-  </a>
-  &#8287;&#8287;&#8287;
-  <a href="https://dev.to/barkat_sara_af78a1befad38" target="_blank">
-    <img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" alt="Dev.to"/>
-  </a>
+ 
 </p>
 
 
